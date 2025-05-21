@@ -1,4 +1,5 @@
 ThingSpeak Smart Irrigation Project
+
 Hi there! 👋
 
 Welcome to the Smart Irrigation System project, an embedded solution designed to help farmers optimize water usage for crops. With this system, farmers can reduce water waste and ensure that plants receive the right amount of hydration, all thanks to a simple yet effective solution.
